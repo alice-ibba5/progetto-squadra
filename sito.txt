@@ -1,0 +1,4 @@
+Titolo: Il Mio Sito Web
+Autore: [nome di A]
+Versione: 0.1
+Descrizione: progetto di test
